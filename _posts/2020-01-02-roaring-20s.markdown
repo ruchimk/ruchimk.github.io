@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Roaring 20's!"
 date:   2020-01-01 22:40:54 -0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I can't believe it is now 2020! It have been 10 years since I graduated undergrad. Holy carp - I am old! Lately, I have been feeling like I have been standing still as time moves on. There are so many things on my bucket list - one of them being starting a blog! I have been waiting around till I had something new to bring to the table, till I was a "subject matter expert", SME if you will, on something..anything. But, I have decided that may or may not ever happen.  I have decided to not put off things on my bucket list any longer. I have decided to make 2020 a year of Action! So here I am. 
 
-Jekyll requires blog post files to be named according to the following format:
+I have always been a little extra weary of putting myself out there. Of embarassing myself, my parents, my loved ones. Or of saying or doing dumb things. After all, putting your thoughts and feelings out there for the world to judge is a scary thing. Being vulnerable is very scary, hard and uncomfortable. But they do say - the only time you are actually growing is when you are outside your comfort zone. And so far in my life, that has been true. Though, I haven't taken too many "risks" in life thus far, I did take one big risk about 5 years ago. I quit my comfortable, well-paying job and going to a coding bootcamp has it shaped my life as it is today both professionally and personally. Although I didn't become a "developer" right after coding school, I did move to the Silicon Valley where I met my husband and got a job at a startup. I eventually did work as a software developer and am still in tech. I have had serveral roles after coding school, and my career path hasn't been traditional, to say the least. But, it has been an exciting adventure, where I have had the chance to meet and work with some ridiculously smart people and have aimed to learn and grow from them. One of the habits that I have noticed a lot of these crazy smart people do is keeping a blog of their learnings. I have always admired and aspired to do this one day but was waiting to know enough about something well enough..but they do say, there is no time like the present. I can put off my goals for another year, but no..after all this is the season for reflecting back on your life and recognizing the necessary changes to grow into the best you you can be. ANDD..It's the ROARING 20s! So, naturally I gotta get my ROAR on! Haha :) 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+So, in this new year (and new decade!), I have a growing desire to change and be the best me; A more couragous me - A me that is not so afraid of what other might think. So, I am going to go for one of my goals of writing more about my life, my feelings, my goals and just put myself other there. There are many reasons I want to make writing a blog one of my priorities this year. Firstly, writing requires focus and deep thinking; two things I would like to improve upon. Second, writing requires commitment to your thoughts and feelings and being commitment phobic naturally, this doesn’t come easy for me - so will be a challenge and opportunity for growth . Lastly, writing on a public forum is uncomfortable and I could use to be a little uncomfortable in pursuit of growth :). 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Happy New Year Everyone! Here is to making it a great year by being vulnerable with each other, trusting each other and growing with each other! <3 
